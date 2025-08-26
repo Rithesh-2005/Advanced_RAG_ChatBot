@@ -26,9 +26,6 @@ Built using **LangChain, Hugging Face models, FAISS, and Streamlit**, it runs **
 
 ---
 
-
----
-
 ## ⚡ Installation
 ```bash
 git clone https://github.com/yourusername/rag-chatbot-advanced.git
@@ -41,3 +38,22 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+---
+
+## ▶️ Run the App
+```bash
+streamlit run app.py
+```
+
+---
+
+## 🌐 Deployment (Streamlit Cloud)
+- Push your repo to GitHub.
+
+- Go to Streamlit Cloud → Create app.
+
+- Point to app.py in your repo.
+
+- Add requirements.txt.
+
+- Deploy 🚀
