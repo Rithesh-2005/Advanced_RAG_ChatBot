@@ -1,4 +1,4 @@
-📚 Retrieval-Augmented Generation (RAG) Chatbot
+📚** Retrieval-Augmented Generation (RAG) Chatbot**
 
 An advanced RAG-powered AI chatbot that can answer questions from your uploaded documents (PDF, TXT, CSV) and also summarize text. Built using LangChain, Hugging Face models, FAISS, and Streamlit, it runs completely free of cost without requiring API keys.
 
