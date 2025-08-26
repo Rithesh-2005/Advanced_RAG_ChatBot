@@ -1,0 +1,9 @@
+streamlit
+langchain
+faiss-cpu
+sentence-transformers
+transformers
+pypdf
+pandas
+matplotlib
+langchain_community
